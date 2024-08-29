@@ -1,9 +1,9 @@
 // 💧 Enter Your Raindrop Token here 👇 //
-let raindropToken = "XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX";
+let raindropToken = "6a1a087d-9e47-4cbe-9b5c-bd4b94fbe6f0";
 
 let token;
 
-if (raindropToken == "XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX") {
+if (raindropToken == "6a1a087d-9e47-4cbe-9b5c-bd4b94fbe6f0") {
   if (
     localStorage.token == "null" ||
     localStorage.token == "undefined" ||
